@@ -2,7 +2,8 @@ var words = [
 "java",
 "chicken",
 "astonishing",
-"pizza"
+"pizza",
+  "school"
 ];
 // Pick a random word
 var word = words[Math.floor(Math.random() * words.length)];
